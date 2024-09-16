@@ -1,0 +1,79 @@
+body {
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 300vh;
+}
+
+botao1, button {
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    border: solid 1px white;
+    width: 200px;
+    height: 100px;
+    cursor: pointer;
+    transition: 0.5s;
+    font-size: 50px;
+}
+
+botao1, button:hover {
+    background-color: white;
+    color: black;
+}
+
+.botaos {
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  margin-top: 200px;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+.botaovoltar {
+    width: 400px;
+    font-weight: 1000px;
+    margin-left: 740px;
+    margin-top: 300px;
+}
+
+.botaoachou {
+    margin-left: 830px;
+}
+
+.correto{
+    margin-top: 700px;
+}
+
+.cachorros {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.imagem {
+    width: 100px;
+    height: 80px;
+}
+
+.porque {
+    width: 300px;
+    height: 80px;
+    font-size: 30px;
+}
+
+.pq {
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+    margin-top: 100px;
+}
+
+.teamo {
+    width: 400px;
+    margin-left: 720px;
+    margin-top: 300px;
+}
